@@ -1,7 +1,7 @@
 .main-container {
-    background: #715b5b;
+    background: #dadada;
     width: 100vw;
-    height: 50vh;
+    height: 80vh;
     display: flex;
     align-items: center;
     /* justify-content: center; */
@@ -17,6 +17,22 @@
 }
 
 h1 {
+    margin-top: 20px;
     color: #fcf459;
     text-shadow: 1px 1px 10px #f0482f;
+}
+
+
+.form-container {
+    background-color: rgb(255, 255, 255);
+    width: 350px;
+    min-height: 350px;
+    margin-top: 10px;
+    box-shadow: 1px 1px 10px #11101167;
+    border-radius: 8px;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
 }
