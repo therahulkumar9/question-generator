@@ -4,7 +4,9 @@ function App() {
 
   return (
     <>
-      <h1>AI Question Generator</h1>
+      <div className='main-container'>
+      <h1 className='heading'>AI Question Generator</h1>
+      </div>
     </>
   )
 }

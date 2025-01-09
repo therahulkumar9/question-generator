@@ -1,0 +1,22 @@
+.main-container {
+    background: #715b5b;
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    flex-direction: column;
+}
+
+.heading {
+    font-size: 34px;
+    border: 3px solid #15bcf4;
+    padding: 9px;
+    border-radius: 5px;
+    background-color: #767979;
+}
+
+h1 {
+    color: #fcf459;
+    text-shadow: 1px 1px 10px #f0482f;
+}
